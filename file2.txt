@@ -2,8 +2,5 @@ Good bye!
 Some othet line
 Line from user2
 Another line from user2
-<<<<<<< HEAD
 critical bug fixed
-=======
 line from user2 - lesson about rebase
->>>>>>> 4c82c73 (add change from user2)
