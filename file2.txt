@@ -4,3 +4,5 @@ Line from user2
 Another line from user2
 critical bug fixed
 line from user2 - lesson about rebase
+critical bug2 fixed
+
