@@ -8,3 +8,4 @@ some new feature
 line from user1 - lesson about rebase
 some changes
 new feature 2
+line from user1 lesson about rebase
